@@ -1,23 +1,17 @@
-# DiRA AI Assistant
-
-DiRA (Data Intelligence Receive Assistant) is an AI assistant project currently under development.
-
+# DiRA – Hybrid AI Assistant (Chat + Voice)
+DiRA is an AI assistant project with a working chat module and an ongoing voice assistant module.
 ## Features
-- FastAPI backend setup
-- React frontend setup
-- Structured project architecture
-
-## Tech Stack
-- Python (FastAPI)
-- React (Vite)
-- Tailwind CSS
-
-## Project Structure
-- BACKEND → API and services
-- FRONTEND → UI
-
+- Real-time AI Chat (Working)
+- Local AI Integration using Ollama (Phi-3)
+- Backend built with FastAPI
+- Frontend built with React.js
+- REST API based communication
 ## Status
-Project is under development. More features like AI chat and voice support will be added.
-
-## Author
-Rupwati Rout
+- Chat: ✅ Working  
+- Voice: 🔄 Ongoing  
+## Tech Stack
+Frontend: React.js, Tailwind CSS, Axios  
+Backend: Python, FastAPI  
+AI Models: Ollama (Phi-3), Gemini (basic)  
+## Description
+This project focuses on building a hybrid AI system that can work both online and offline using local AI models.
